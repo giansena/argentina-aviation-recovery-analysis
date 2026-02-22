@@ -22,7 +22,6 @@ print("--- VISTA PREVIA DEL DATASET FINAL ---")
 print(df_final.sort_values(['año', 'mes']).head(15))
 
 print("\n" + "="*40)
-print("¡FASE 3 FINALIZADA!")
+print("¡FASE  FINALIZADA!")
 print("Archivo generado: dataset_final_investigacion.csv")
-print("Este archivo tiene todo lo necesario para responder tus 3 preguntas.")
 print("="*40)
